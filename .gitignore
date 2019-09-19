@@ -1,0 +1,21 @@
+# Max OSX
+.DS_Store
+
+# BASH
+.bash_history
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# IPython
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+**/*.ipynb_checkpoints/
+
+.ipython
+
+# Ignore SQL files
+*.sql
+
+# Ignore data directory
