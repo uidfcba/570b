@@ -15,6 +15,17 @@ This course is organized into eight modules. Each module consists of multiple le
 
 Typically, a module is covered in one week, although this pace can be either faster or slower based on student needs. In addition, content can be selectively used from lessons and modules to provide supplemental learning content for an existing course. The module quiz is traditionally given through the course LMS in a timed fashion (e.g., thirty minutes). The assignments are completed on the course JupyterHub server, and are collected at the assignment deadline and processed by an autograder.
 
+## Original Content
+
+The original content for this course consists of Jupyter notebooks, which are rendered to standard HTML webpages by github automatically. [Click Here][oc] to get started browsing the original notebook content.
+
+## HTML Webpage Content
+
+The Jupyter notebook system can convert the original notebooks into a variety of different format, including HTML, which is the standard format used to create web pages. [Click Here][sc] to get started browsing the notebook content as a static website.
+
+[oc]: original/index.ipynb
+[sc]: html/index.html
+
 -----
 
 ## Special Notes
